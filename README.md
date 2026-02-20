@@ -5,8 +5,3 @@ This repository contains a Monte Carlo simulation to calculate the potential pro
 # **Key Features**:
 - **Maximum, Minimum, and Average Profit** calculations.
 - **Probability of Loss and Profit**.
-- Histograms visualizing the distributions of:
-  - Direct Costs (c1)
-  - Parts Costs (c2)
-  - Demand
-  - Profit
